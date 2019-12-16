@@ -11,7 +11,7 @@
 
 仿真波形：
 
-![wave](https://raw.githubusercontent.com/Verdvana/Dec8b10b/V1.0/Simulation/enc8b10b_TB/wave.jpg)
+![wave](https://raw.githubusercontent.com/Verdvana/Dec8b10b/master/Simulation/enc8b10b_TB/wave.jpg)
 
 
 | Flow Summary | Content |
